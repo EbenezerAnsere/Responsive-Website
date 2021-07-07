@@ -1,0 +1,51 @@
+maybe you just have to copy that functionality into the new project
+it is not part of the requirements 
+
+so on this doashboard you show the summary of the all the items you have
+
+he is comming 
+
+he has done some already let him come
+i am trying to figuer out something on my code
+but later i will come and check what you ha
+
+distinst spell wrong word but i forget
+
+interest percent disort
+
+iterest rate discount thanks i am confused with words
+
+
+you dont need any of those
+
+just the total numberof items
+the total category of the items
+total number of the items in stock
+
+
+so you can show a table with the various items and the quantity
+if any of the items has a qty = 0 then maybe the text should be red
+if it is between 1 and 20 it should be orange color and if it is 
+more than 20 then the color of the text should be green i understand
+
+what do you want
+
+just create a table
+
+
+so now you can you css to style it the way you want
+
+so you just use css to change the color of the text base on ok 
+
+it means you should be able to add to the list and also delete and also update thank
+
+so he will come and 
+
+because i have not finish it is difficult doing some of the thinks 
+unles ifinish and find out how to solve it yes, it is true that this project is hard but i 
+am confident that you are able to do the project. And i hope you will be finished the project
+this week and 
+to me, i i can design the web but i don't know what are the requirements that i follow to 
+do. I am learning what you and other friends are done.
+
+small small we will pick up
